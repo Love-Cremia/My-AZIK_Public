@@ -345,8 +345,8 @@ wsp	うぉん
 kf	きん
 jf	じゅん
 yf	ゆう
-mf	むう
-nf	ぬう
+mf	む
+nf	ぬ
 df	でん
 cf	ちぇ
 xf	しぇい
